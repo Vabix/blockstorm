@@ -1,0 +1,6 @@
+{
+  "name": "blockstorm", "version": "1.0.0", "private": true, "type": "module",
+  "scripts": { "dev": "vite --host 0.0.0.0", "build": "tsc --noEmit && vite build", "preview": "vite preview --host 0.0.0.0", "test": "node --experimental-strip-types --disable-warning=ExperimentalWarning --test tests/*.test.ts" },
+  "dependencies": { "three": "^0.180.0", "mqtt": "^5.14.1", "lucide": "^0.468.0" },
+  "devDependencies": { "@types/three": "^0.180.0", "typescript": "^5.9.3", "vite": "^6.4.1" }
+}
