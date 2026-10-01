@@ -4,7 +4,7 @@ Blockstorm is a browser-based, Vortex-inspired multiplayer party game. The first
 
 ## Play
 
-- **Live app:** deployed on Vercel (link is added after deployment).
+- **Live app:** [blockstorm-two.vercel.app](https://blockstorm-two.vercel.app).
 - Open the game and choose **Zagraj teraz** to host a room.
 - Click **Zaproś znajomego**, copy the invite link and send it to a friend. Both players need to keep the game tab open.
 - No account or install is required. The game supports up to 8 players per room.
